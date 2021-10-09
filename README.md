@@ -28,7 +28,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" style="max-width:100%;"></img>
 
 
-![Jefferson github stats](https://github-readme-stats.vercel.app/api?username=JeffersonMoller&show_icons=true&count_private=true&theme=dracula)
+![Jefferson github stats](https://github-readme-stats.vercel.app/api?username=JeffersonMoller&show_icons=true&count_private=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonMoller&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
