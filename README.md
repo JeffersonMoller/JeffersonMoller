@@ -2,7 +2,7 @@
 
 ## I'm Jefferson Möller
 - I live in :brazil:, south:beers:
-- I have been working on Senior Sistemas as developer fullstack :man_technologist:
+- I have been working on Senior Sistemas as full stack developer:man_technologist:
 - I have been learnig more about Java :heart:
 
 ## Connect with me:
