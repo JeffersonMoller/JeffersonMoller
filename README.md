@@ -2,33 +2,33 @@
 
 ## I'm Jefferson Möller
 - I live in :brazil:, south:sunglasses::sunrise:
-- I have been working on Certus Software as backend developer :computer:
-- I have been learnig more about Ruby on Rails :sparkling_heart:
+- I have been working on Senior Sistemas as developer fullstack :computer:
+- I have been learnig more about Java :sparkling_heart:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/jmoller" target="_blank">
-<img align="center" alt="jefferson-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
+<img align="center" alt="jefferson-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 
 ## My Skills
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ruby_icon_130186.png" alt="ruby" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rails_icon_130210.png" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40" style="max-width:100%;"></img>
 
 ## Learning
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vuejs_original_logo_icon_146304.png" alt="vuejs" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" style="max-width:100%;"></img>
 
 ## My Another Skills
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ionic_icon_130522.png" alt="ionic" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width:100%;"></img>
 
 
-![Jefferson github stats](https://github-readme-stats.vercel.app/api?username=JeffersonMoller&show_icons=true&count_private=true&theme=radical)
+![Jefferson github stats](https://github-readme-stats.vercel.app/api?username=JeffersonMoller&show_icons=true&count_private=true&theme=dracula)
 
 
 <!--
